@@ -299,7 +299,7 @@ UPLOAD_FOLDER=uploads/resumes
 
 ------------------------------------------------------------------------
 
-## ❓ Troubleshooting & Common Questions
+## Troubleshooting & Common Questions
 
 ### 1. PowerShell Script Execution Error
 
@@ -371,7 +371,7 @@ README commands.
 
 ---
 
-## ?? Project Screenshots
+## Project Screenshots
 
 ### 1. Home Page
 ![Home Page](uploads/screenshots/home.png)
